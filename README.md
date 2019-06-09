@@ -1,4 +1,17 @@
-# final-ca
+# Card Game built with Vue.js
+
+Download the Noroff-Final-CA to your computer
+- CD to the folder by the means of your terminal
+- Run "npm install"
+- Run "npm run serve"
+- Then the terminal will show you a link to a local host.
+  Copy the link to your browser
+  
+  For the login:
+  Username: Maren
+  Password: @4321
+  
+  
 
 ## Project setup
 ```
